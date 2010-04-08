@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="997c34f5-15a4-4aa6-878a-3023a37fe5b1" kpf_version="4" name="mediaplayer.kpf">
+<command cwd="%p" doNotOpenOutputWindow="0" env="" id="c2227af0-c285-4ba1-b433-5b10f1646d4e" idref="997c34f5-15a4-4aa6-878a-3023a37fe5b1" insertOutput="0" keyboard_shortcut="" name="Run buildout" operateOnSelection="0" parseOutput="0" parseRegex="" runIn="command-output-window" showParsedOutputList="0">
+%(python) %p/bootstrap.py &amp;&amp; bin\buildout.exe</command>
+<preference-set idref="997c34f5-15a4-4aa6-878a-3023a37fe5b1">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
